@@ -1,5 +1,5 @@
 #The picture
-image = 'Snapchat.png'
+image = 'Smile.png'
 #'Headphones.png'
 #'person.png'
 #'Smile.png'
